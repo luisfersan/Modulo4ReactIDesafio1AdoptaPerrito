@@ -1,6 +1,5 @@
 /* Creando styles para el componente Header.jsx */
 .header {
-    background-color: blue;
-    padding: 24px;
-    text-align: center;
+  padding: 24px;
+  text-align: center;
 }
